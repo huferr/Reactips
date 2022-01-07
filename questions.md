@@ -22,11 +22,21 @@ Here you can see some questions about React/javascript environment!
   ReactDOM.render(parag, document.getElementById('root'));
   ```
   
-  <p>When using JSX, you can put expressions or variables in your code:</p>
+  <p>When using JSX, you can put any javascript expressions or variables inside the curly braces in your code:</p>
   
    ```js
   const userName = "Hugo";
   const title = <h1>Hello, {userName}!</h1>;
-
+  ```
+  <p>Other example:</p>
+  
+  ```js
+  const handleSubtitle = () => <h2>Subtitle</h2>;
+  const component = () => (
+    <div>
+      <h1>Here is a function call in JSX:</h1>
+      {handleSubtitle()}
+    </div>
+  )
   ```
 </details>
