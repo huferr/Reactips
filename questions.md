@@ -40,3 +40,6 @@ Here you can see some questions about React/javascript environment!
   )
   ```
 </details>
+<details>
+  <summary><strong>Next question</strong></summary>
+</details>
