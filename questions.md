@@ -44,4 +44,5 @@ Here you can see some questions about React/javascript environment!
   <summary><strong>What is Virtual DOM?</strong></summary>
   <br>
   <p>The virtual DOM is a representation of a UI (HTML Elements === React Components) which is kept in memory and synced with the real DOM.</p>
+  <p>I am still working in that question...wait a sec.</p>
 </details>
