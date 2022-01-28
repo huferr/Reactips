@@ -52,3 +52,9 @@ Here you can see some questions about React/javascript environment!
   <br>
   <p>I am still working in that question...wait a sec.</p>
 </details>
+
+<details>
+  <summary><strong>What is the useState Hook?</strong></summary>
+  <br>
+  <p>I am still working in that question...wait a sec.</p>
+</details>
