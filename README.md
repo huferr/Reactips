@@ -2,7 +2,7 @@
 
 Let's Learn about React.
 
-This repository was made to encompass important, cool and useful information about **ReactJS** and **React Native**. And to force me to learn more deeply about it as well. :)
+This repository was made to encompass important, cool and useful information about **ReactJS**. And to force me to learn more deeply about it as well. :)
 
 There's a section with only good and curious questions about ReactJS. [Check It!](./questions.md)
 ### What is ReactJS?
